@@ -11,5 +11,5 @@ This repository hosts my live portfolio website built with GitHub Pages.
 - Shipped titles and professional experience overview
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/daremah-aslam/
+- LinkedIn: https://www.linkedin.com/in/daremah-aslam-19ba99141
 - Email: daremah.aslam@gmail.com
